@@ -43,9 +43,9 @@ I'm always striving to grow and improve. Here's what I'm currently focusing on:
 - **Email**: naibkhan096@gmail.com
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naibkhan77&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naibkhan77&layout=compact&theme=radical)
 
 ---
 
