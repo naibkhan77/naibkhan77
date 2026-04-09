@@ -9,17 +9,13 @@ I'm a passionate **Front End Developer** with a strong focus on creating dynamic
 ### Front-End Development:
 - **Languages**: JavaScript (ES6+), TypeScript
 - **Frameworks**: React, Next.js
-- **Styling**: Tailwind CSS, Material UI, Styled Components, SASS
-- **State Management**: Redux, Context API
-- **Component Libraries**: Ant Design, Chakra UI
+- **Styling**: Tailwind CSS, Material UI, Styled Components, SASS, Bootstrap
 
 ### Tools & Platforms:
 - **Version Control**: Git & GitHub
 - **Package Managers**: NPM, Yarn
-- **Bundlers**: Webpack, Vite
 - **Testing**: Jest, React Testing Library
 - **CI/CD**: GitHub Actions
-- **Deployment**: Vercel, Netlify
 
 ---
 
